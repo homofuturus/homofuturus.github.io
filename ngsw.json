@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1689789409778,
+  "timestamp": 1689789694661,
   "index": "https://homofuturus.github.io/webify/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://homofuturus.github.io/webify/favicon.ico",
         "https://homofuturus.github.io/webify/index.html",
-        "https://homofuturus.github.io/webify/main.5460724478ed0d05.js",
+        "https://homofuturus.github.io/webify/main.e8aeb292326c5b69.js",
         "https://homofuturus.github.io/webify/manifest.webmanifest",
         "https://homofuturus.github.io/webify/polyfills.7e14b3fe4fc166d7.js",
         "https://homofuturus.github.io/webify/runtime.d99f4dac21d07520.js",
-        "https://homofuturus.github.io/webify/styles.052d7b4218042d9c.css"
+        "https://homofuturus.github.io/webify/styles.4fda3167bb9969fc.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "https://homofuturus.github.io/webify/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
     "https://homofuturus.github.io/webify/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
     "https://homofuturus.github.io/webify/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://homofuturus.github.io/webify/index.html": "12546e875fee52bac2ecd703e6e8b68bbdaf4262",
-    "https://homofuturus.github.io/webify/main.5460724478ed0d05.js": "d74be60c0baec693b55dc4526aa79afce1b84d12",
+    "https://homofuturus.github.io/webify/index.html": "ddd660aa0ca2d7849935b1c4a50d6692efa0acda",
+    "https://homofuturus.github.io/webify/main.e8aeb292326c5b69.js": "e04d80fbd79bbd25ee888c56814860b776b99f60",
     "https://homofuturus.github.io/webify/manifest.webmanifest": "567a0c44600eaf5a338327e189504fff181bd68a",
     "https://homofuturus.github.io/webify/polyfills.7e14b3fe4fc166d7.js": "283b022c1c8f43f807975d5e6855e4b32aa72576",
     "https://homofuturus.github.io/webify/runtime.d99f4dac21d07520.js": "8bb38bd3481350b91c79ae2ef2dd4dc42f9de11d",
-    "https://homofuturus.github.io/webify/styles.052d7b4218042d9c.css": "b7cea213f3378e237e3d139e9449df98ee018416"
+    "https://homofuturus.github.io/webify/styles.4fda3167bb9969fc.css": "00292b51c57a75688a32b4c48ec130c674ff5510"
   },
   "navigationUrls": [
     {
