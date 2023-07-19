@@ -19,18 +19,18 @@ Deploy using the technique described in https://medium.com/tech-insights/how-to-
 
 ### First time setup
 ```
- 1033  git checkout -b gh-pages
- 1034  git push origin gh-pages
- 1035  npm install -g angular-cli-ghpages
- 1037  ng build  --base-href https://homofuturus.github.io/webify/
- 1040  ngh --dir=dist/tmtoday-ng
+git checkout -b gh-pages
+git push origin gh-pages
+npm install -g angular-cli-ghpages
+ng build  --base-href https://homofuturus.github.io/webify/
+ngh --dir=dist/webify
 ```
 
 ### Subsequent deploys
 On the main branch:
 ```
- 1041  ng build --base-href https://homofuturus.github.io/webify/
- 1042  ngh --dir=dist/tmtoday-ng
+ng build --base-href https://homofuturus.github.io/webify/
+ngh --dir=dist/webify
 ```
 
 ## Running unit tests
