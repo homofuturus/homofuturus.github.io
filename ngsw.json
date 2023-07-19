@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1689780855198,
+  "index": "https://homofuturus.github.io/webify/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://homofuturus.github.io/webify/favicon.ico",
+        "https://homofuturus.github.io/webify/index.html",
+        "https://homofuturus.github.io/webify/main.469c78a47150f92c.js",
+        "https://homofuturus.github.io/webify/manifest.webmanifest",
+        "https://homofuturus.github.io/webify/polyfills.7e14b3fe4fc166d7.js",
+        "https://homofuturus.github.io/webify/runtime.d99f4dac21d07520.js",
+        "https://homofuturus.github.io/webify/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://homofuturus.github.io/webify/assets/icons/icon-128x128.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-144x144.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-152x152.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-192x192.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-384x384.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-512x512.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-72x72.png",
+        "https://homofuturus.github.io/webify/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://homofuturus.github.io/webify/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://homofuturus.github.io/webify/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://homofuturus.github.io/webify/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://homofuturus.github.io/webify/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://homofuturus.github.io/webify/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://homofuturus.github.io/webify/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://homofuturus.github.io/webify/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://homofuturus.github.io/webify/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://homofuturus.github.io/webify/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://homofuturus.github.io/webify/index.html": "b02d10c3f99da5f6cf09337d7f9060ca3e0b4561",
+    "https://homofuturus.github.io/webify/main.469c78a47150f92c.js": "f3b9b00eef80be75a667795b3bfa62a099072f5d",
+    "https://homofuturus.github.io/webify/manifest.webmanifest": "567a0c44600eaf5a338327e189504fff181bd68a",
+    "https://homofuturus.github.io/webify/polyfills.7e14b3fe4fc166d7.js": "283b022c1c8f43f807975d5e6855e4b32aa72576",
+    "https://homofuturus.github.io/webify/runtime.d99f4dac21d07520.js": "8bb38bd3481350b91c79ae2ef2dd4dc42f9de11d",
+    "https://homofuturus.github.io/webify/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
