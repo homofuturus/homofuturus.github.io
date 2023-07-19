@@ -14,6 +14,25 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
+## Deploy to github pages
+Deploy using the technique described in https://medium.com/tech-insights/how-to-deploy-angular-apps-to-github-pages-gh-pages-896c4e10f9b4
+
+### First time setup
+```
+ 1033  git checkout -b gh-pages
+ 1034  git push origin gh-pages
+ 1035  npm install -g angular-cli-ghpages
+ 1037  ng build  --base-href https://homofuturus.github.io/webify/
+ 1040  ngh --dir=dist/tmtoday-ng
+```
+
+### Subsequent deploys
+On the main branch:
+```
+ 1041  ng build --base-href https://homofuturus.github.io/webify/
+ 1042  ngh --dir=dist/tmtoday-ng
+```
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
