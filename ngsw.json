@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1690112822003,
-  "index": "https://homofuturus.github.io/index.html",
+  "timestamp": 1690122193990,
+  "index": "https://bulletread.online/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://homofuturus.github.io/favicon.ico",
-        "https://homofuturus.github.io/index.html",
-        "https://homofuturus.github.io/main.7b3a71f9ece67aa5.js",
-        "https://homofuturus.github.io/manifest.webmanifest",
-        "https://homofuturus.github.io/polyfills.7e14b3fe4fc166d7.js",
-        "https://homofuturus.github.io/runtime.d99f4dac21d07520.js",
-        "https://homofuturus.github.io/styles.4fda3167bb9969fc.css"
+        "https://bulletread.online/favicon.ico",
+        "https://bulletread.online/index.html",
+        "https://bulletread.online/main.7b3a71f9ece67aa5.js",
+        "https://bulletread.online/manifest.webmanifest",
+        "https://bulletread.online/polyfills.7e14b3fe4fc166d7.js",
+        "https://bulletread.online/runtime.d99f4dac21d07520.js",
+        "https://bulletread.online/styles.4fda3167bb9969fc.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://homofuturus.github.io/assets/icons/icon-128x128.png",
-        "https://homofuturus.github.io/assets/icons/icon-144x144.png",
-        "https://homofuturus.github.io/assets/icons/icon-152x152.png",
-        "https://homofuturus.github.io/assets/icons/icon-192x192.png",
-        "https://homofuturus.github.io/assets/icons/icon-384x384.png",
-        "https://homofuturus.github.io/assets/icons/icon-512x512.png",
-        "https://homofuturus.github.io/assets/icons/icon-72x72.png",
-        "https://homofuturus.github.io/assets/icons/icon-96x96.png"
+        "https://bulletread.online/assets/icons/icon-128x128.png",
+        "https://bulletread.online/assets/icons/icon-144x144.png",
+        "https://bulletread.online/assets/icons/icon-152x152.png",
+        "https://bulletread.online/assets/icons/icon-192x192.png",
+        "https://bulletread.online/assets/icons/icon-384x384.png",
+        "https://bulletread.online/assets/icons/icon-512x512.png",
+        "https://bulletread.online/assets/icons/icon-72x72.png",
+        "https://bulletread.online/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://homofuturus.github.io/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "https://homofuturus.github.io/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "https://homofuturus.github.io/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "https://homofuturus.github.io/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "https://homofuturus.github.io/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "https://homofuturus.github.io/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "https://homofuturus.github.io/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "https://homofuturus.github.io/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "https://homofuturus.github.io/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://homofuturus.github.io/index.html": "1f3c833f328b8a5863a04bb69f68cb0adc70748a",
-    "https://homofuturus.github.io/main.7b3a71f9ece67aa5.js": "163a6492cd7b245d7181b92f7c58a6cdba3e8aa3",
-    "https://homofuturus.github.io/manifest.webmanifest": "567a0c44600eaf5a338327e189504fff181bd68a",
-    "https://homofuturus.github.io/polyfills.7e14b3fe4fc166d7.js": "283b022c1c8f43f807975d5e6855e4b32aa72576",
-    "https://homofuturus.github.io/runtime.d99f4dac21d07520.js": "8bb38bd3481350b91c79ae2ef2dd4dc42f9de11d",
-    "https://homofuturus.github.io/styles.4fda3167bb9969fc.css": "00292b51c57a75688a32b4c48ec130c674ff5510"
+    "https://bulletread.online/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "https://bulletread.online/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "https://bulletread.online/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "https://bulletread.online/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "https://bulletread.online/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://bulletread.online/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://bulletread.online/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "https://bulletread.online/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "https://bulletread.online/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://bulletread.online/index.html": "ab0696164ca4f3e29d0fb70ddf61d1d0bb0914d4",
+    "https://bulletread.online/main.7b3a71f9ece67aa5.js": "163a6492cd7b245d7181b92f7c58a6cdba3e8aa3",
+    "https://bulletread.online/manifest.webmanifest": "567a0c44600eaf5a338327e189504fff181bd68a",
+    "https://bulletread.online/polyfills.7e14b3fe4fc166d7.js": "283b022c1c8f43f807975d5e6855e4b32aa72576",
+    "https://bulletread.online/runtime.d99f4dac21d07520.js": "8bb38bd3481350b91c79ae2ef2dd4dc42f9de11d",
+    "https://bulletread.online/styles.4fda3167bb9969fc.css": "00292b51c57a75688a32b4c48ec130c674ff5510"
   },
   "navigationUrls": [
     {
