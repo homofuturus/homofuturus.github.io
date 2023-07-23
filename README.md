@@ -22,7 +22,7 @@ Deploy using the technique described in https://medium.com/tech-insights/how-to-
 git checkout -b gh-pages
 git push origin gh-pages
 npm install -g angular-cli-ghpages
-ng build  --base-href https://homofuturus.github.io/webify/
+ng build  --base-href https://homofuturus.github.io/
 ngh --dir=dist/webify
 ```
 
@@ -30,7 +30,7 @@ ngh --dir=dist/webify
 On the main branch:
 ```
 ng build --base-href https://bulletread.online/
-ngh --dir=docs
+ngh --dir=dist/webify
 ```
 
 ## Running unit tests
