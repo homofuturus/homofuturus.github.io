@@ -29,8 +29,8 @@ ngh --dir=dist/webify
 ### Subsequent deploys
 On the main branch:
 ```
-ng build --base-href https://homofuturus.github.io/
-ngh --dir=dist/webify
+ng build --base-href https://bulletread.online/
+ngh --dir=docs
 ```
 
 ## Running unit tests
