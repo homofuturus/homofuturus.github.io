@@ -29,7 +29,7 @@ ngh --dir=dist/webify
 ### Subsequent deploys
 On the main branch:
 ```
-ng build --base-href https://homofuturus.github.io/webify/
+ng build --base-href https://homofuturus.github.io/
 ngh --dir=dist/webify
 ```
 
